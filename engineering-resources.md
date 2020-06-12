@@ -34,6 +34,8 @@
 - https://www.makeitfrom.com/
 - http://www.waterid.org/  Water Infrastructure Database
 - http://507movements.com/
+- https://aimath.org/textbooks/approved-textbooks/
+- https://hbpms.blogspot.com/
 </details>
 
 <details>
