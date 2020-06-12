@@ -36,6 +36,10 @@
 - http://507movements.com/
 - https://aimath.org/textbooks/approved-textbooks/
 - https://hbpms.blogspot.com/
+- https://www.engineeringtoolbox.com/
+- http://hbcponline.com/faces/contents/ContentsSearch.xhtml CRC Handbook of Chemistry and Physics
+- http://www.thermopedia.com/
+- https://markummitchell.github.io/engauge-digitizer/
 </details>
 
 <details>
@@ -58,6 +62,9 @@
 - https://www.arcat.com/bim/ritehite/Loading-Dock-and-Vehicular-Equipment-Dock-Shelters.shtml
 - https://www2.strongtie.com/drawings/revit.asp
 - http://hilti.cadclick.com/?mandant=gb&la=101
+- https://www.traceparts.com/en
+- https://www.3dcontentcentral.com/
+- https://engstandards.lanl.gov/Dwgs_Details.shtml
 </details>
 
 <details>
@@ -98,6 +105,7 @@
 <summary>Forums</summary>
   
 - https://www.eng-tips.com
+- https://www.practicalmachinist.com/vb/
 </details>
 
 
