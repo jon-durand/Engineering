@@ -85,6 +85,7 @@
 - Jeff Hanson
 - David Garber Concrete lectures
 - Brian Douglas Control Systems Lectures
+- Engineer4Free
 </details>
 
 <details>
